@@ -1,17 +1,17 @@
 # <Module-Challenge-1>
 ## Description
-Module Challenge 1 an on-the-job-ticket for the front page of the Horiseon marketing company website. Refacotring the existing code meet accessibility standards and optimized the code for search engines. 
+  Module Challenge 1 an on-the-job-ticket for the front page of the Horiseon marketing company website. Refacotring the existing code meet accessibility standards and    optimized the code for search engines. 
   
 ## Installation
-Pull project files from the Git Lab Bootcamp repository. Your are looking for the folder labeled 02-Challenge found inside the week 1 class course work.   
+  Pull project files from the Git Lab Bootcamp repository. Your are looking for the folder labeled 02-Challenge found inside the week 1 class course work.   
 
 ## Usage
   Front End for Horiseon.  
 ## Credits
 
-N/A
+  N/A
 ## License
- N/A
+  N/A
 ---  
 ## User Story
 AS A marketing agency

@@ -3,7 +3,7 @@
     padding: 0;
     margin: 0;
 }
-
+/* background color of website */
 body {
     background-color: #d9dcd6;
 }
@@ -39,7 +39,7 @@ header nav ul li {
     display: inline-block;
     margin-left: 25px;
 }
-
+/* Text information */
 a {
     color: #ffffff;
     text-decoration: none;
@@ -57,7 +57,7 @@ p {
     background-size: cover;
     background-position: center;
 }
-
+/* floats for image positioning */
 .float-left {
     float: left;
     margin-right: 25px;
@@ -67,7 +67,7 @@ p {
     float: right;
     margin-left: 25px;
 }
-
+/* Main */
 main {
     width: 75%;
     display: inline-block;
@@ -88,8 +88,8 @@ main {
 .service h2 {
     margin-bottom: 20px;
     font-size: 36px;
-}
-/* condensed benefits classes into one */
+} 
+/* Properties for benefits */
 .benefits {
     margin-right: 20px;
     padding: 20px;

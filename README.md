@@ -11,7 +11,7 @@ Pull project files from the Git Lab Bootcamp repository. Your are looking for th
 
 N/A
 ## License
-N/A
+ N/A
 ---  
 ## User Story
 AS A marketing agency

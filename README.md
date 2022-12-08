@@ -6,7 +6,7 @@
   Pull project files from the Git Lab Bootcamp repository. Your are looking for the folder labeled 02-Challenge found inside the week 1 class course work.   
 
 ## Usage
-  Front End for Horiseon.  
+  Front page for Horiseon website.  
 ## Credits
 
   N/A
